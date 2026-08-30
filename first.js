@@ -7,3 +7,5 @@ console.log(razorpay);
 const payment = "Adding payment system in the software";
  console.log(payment);
 console.log(content);
+const footer = "Adding footer in the website";
+console.log(footer);
