@@ -9,3 +9,5 @@ const payment = "Adding payment system in the software";
 console.log(content);
 const footer = "Adding footer in the website";
 console.log(footer);
+const pubg = "Playing the games in the website";
+console.log(pubg);
